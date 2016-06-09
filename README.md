@@ -11,3 +11,5 @@ My plan is to one day come back to this project and see if I can get it into a w
 given to us by the professor. In the meantime it will go untocuehd and serve as a memory to myself of why I should
 always make sure I have partners who will actually attempt to contribute to the project instead of leaving me with
 empty promises.
+
+- Connor Allen
